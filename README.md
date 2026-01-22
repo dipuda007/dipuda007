@@ -49,25 +49,9 @@ I’m passionate about learning new technologies, improving my coding skills, an
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipuda007&theme=dark&show_icons=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dipuda007&theme=dark" alt="GitHub Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipuda007&theme=dark&layout=compact" alt="Top Languages" />
-</p>
 
----
 
-## 🏆 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=dipuda007&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</p>
-
----
 
 ## 🤝 Let’s Collaborate
 
@@ -76,11 +60,4 @@ If you have an idea or project to work on, let’s connect!
 
 ---
 
-### 🔧 Bonus (Optional)
 
-Add this at the bottom if you want a *fun footer*:
-
-```markdown
-<p align="center">
-  Made with ❤️ using GitHub, coffee ☕, and a bit of late-night code 💻
-</p>
