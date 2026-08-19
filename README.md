@@ -1,63 +1,54 @@
-<!--
-  README for dipuda007
-  Welcome viewers with a clean and engaging intro!
--->
+<!-- Header -->
 
-# 👋 Hi there, I’m Dipankar!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dipankar%20Ghosh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%40%20IIT%20Madras&descAlignY=58&descSize=16" width="100%"/>
 
-### ✨ About Me
+<!-- Typing Animation -->
 
-I’m currently studying **Data Science at IIT Madras**.  
-I enjoy building **apps and websites**, especially projects that solve real problems I face personally.  
-I’m passionate about learning new technologies, improving my coding skills, and turning ideas into working projects.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Data+Science+Student+%40+IIT+Madras;Building+Apps+%26+Websites;Learning+AI+%26+Machine+Learning;Turning+Ideas+Into+Projects" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
+## 👋 About Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dipux94)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ghoshdipankar331@gmail.com)
+Hi, I'm **Dipankar Ghosh**, a **Data Science student at IIT Madras**.
 
----
+I enjoy building apps and websites, experimenting with new technologies, and turning ideas into useful projects.
 
-## 💻 Tech Stack
-
-### 🛠️ Languages & Frameworks
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🚀 Tools & Platforms
-
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### 📊 Data & ML
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
+I'm currently learning more about **AI, Machine Learning, and Software Development**.
 
 ---
 
+## 💻 Languages
 
-
-
-
-## 🤝 Let’s Collaborate
-
-I’m always excited to learn, build, and grow—especially with others who are passionate about technology.  
-If you have an idea or project to work on, let’s connect!
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ---
+
+## 🛠️ Tools & Platforms
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+
+---
+
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/dipux94)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ghoshdipankar331@gmail.com)
+
+---
+
+### 🚀 Let's Build Something
+
+Always open to learning, collaborating, and building interesting projects.
+
+<p align="center">
+  <i>“Turning ideas into something that works.”</i>
+</p>
 
 
